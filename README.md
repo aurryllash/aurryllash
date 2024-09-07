@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lashatsikl85112" target="blank"><img src="https://img.shields.io/twitter/follow/lashatsikl85112?logo=twitter&style=for-the-badge" alt="lashatsikl85112" /></a> </p>
 
-- 🌱 I’m currently learning **React, Linux, Node.js**
+- 🌱 I’m currently learning **Linux, T3 Stack**
 
 - 💬 Ask me about **Algorithms and Data structures, Discrete Mathematics**
 
