@@ -1,4 +1,4 @@
-![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3deot1nd5af0uzzvhahj.gif)
+![MasterHead](https://geneveinstitute.com/upload/posts/Algorithms_and_Data_Structures.jpg)
 <h1 align="center">Hi 👋, I'm Lasha Tsiklauri</h1>
 <h3 align="center">Full-Stack developer from Georgia</h3>
 
