@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/lashatsikl85112" target="blank"><img src="https://img.shields.io/twitter/follow/lashatsikl85112?logo=twitter&style=for-the-badge" alt="lashatsikl85112" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, React Native**
-
 - 💬 Ask me about **Algorithms and Data structures, Discrete Mathematics**
 
 - 📫 How to reach me **lashatsiklauri77@gmail.com**
